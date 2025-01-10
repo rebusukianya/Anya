@@ -20,8 +20,8 @@ Yo, my prefix is [ 𓆩 _<?>_ 𓆪 ]\n
 ➥ &help [number of page] -> see commands
 ➥ &sim [message] -> talk to bot
 ➥ &callad [message] -> report any problem encountered
-➥ &help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: https://www.facebook.com/BAYJID.500k`,
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/I8JSUWI.jpeg")
+➥ &help [command] -> information and usage of command\n\nHave fun using it enjoy!❤️\nBot Developer: https://www.facebook.com/mueid.mursalin.rifat1`,
+ attachment: await global.utils.getStreamFromURL("https://images.app.goo.gl/5XG2KNzW4d8qr2p87")
  });
  }
  }
