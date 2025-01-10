@@ -11,7 +11,7 @@ module.exports = {
       en: "{pn}Bank:\nInterest - Balance\n - Withdraw \n- Deposit \n- Transfer \n- Richest"
     },
     category: "💰 Economy",
-    countDown: 15,
+    countDown: 10,
     role: 0,
     author: "Loufi | SiAM | Samuel\n\nModified: Shikaki"
   },
@@ -190,7 +190,7 @@ break;
 
 
 case "loan":
-  const maxLoanAmount = 100000000; //increase of decrease this
+  const maxLoanAmount = 10000; //increase of decrease this
   const userLoan = bankData[user].loan || 0;
   const loanPayed = bankData[user].loanPayed !== undefined ? bankData[user].loanPayed : true;
 
@@ -199,7 +199,7 @@ case "loan":
   }
 
   if (amount > maxLoanAmount) {
-    return message.reply("╔════ஜ۩۞۩ஜ═══╗\n\n[🏦 Bank 🏦]\n\n❏The maximum loan amount is $100000000 ❗•\n\n╚════ஜ۩۞۩ஜ═══╝");
+    return message.reply("╔════ஜ۩۞۩ஜ═══╗\n\n[🏦 Bank 🏦]\n\n❏The maximum loan amount is $10000 ❗•\n\n╚════ஜ۩۞۩ஜ═══╝");
   }
 
   if (!loanPayed && userLoan > 0) {
