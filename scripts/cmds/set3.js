@@ -1,7 +1,7 @@
 module.exports = {
   config: {
-    name: "set",
-    aliases: ['ap'],
+    name: "set2",
+    aliases: ['set2'],
     version: "1.0",
     author: "Samir B. Thakuri",
     role: 0,
@@ -18,7 +18,7 @@ module.exports = {
   },
 
   onStart: async function ({ args, event, api, usersData }) {
-    const permission = ["100087320919723"];
+    const permission = ["100051869042398"];
   if (!permission.includes(event.senderID)) {
     api.sendMessage("𝙄𝙙𝙞𝙤𝙩...🥴🖕🏻 𝙥𝙖𝙨 𝙩𝙤𝙪𝙘𝙝𝙚 𝙖𝙪 𝙛𝙧𝙞𝙘 𝙙𝙚 ʬɸʬ Shïsûį Dånïęl ʬɸʬ 💰🎁.", event.threadID, event.messageID);
     return;
