@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "rebusukianya@gmail.com",
+    "password": "rifat2580@",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,31 +35,31 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
-    "61567325751299"
+    "100051869042398",
+    "61571522142727"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "100051869042398"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯",
-  "prefix": "?",
+  "nickNameBot": "αɳყα ૨εɓµรµҡเ",
+  "prefix": "/",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
-  "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
-  "insta": "no",
-  "age": "17+",
-  "TG": "",
+  "authorName": "ʍʊɛɨɖ ʍʊʀֆǟʟɨռ ʀɨʄǟȶ",
+  "facebook2": "https://www.facebook.com/mueid.mursalin.rifat1",
+  "facebook": "https://www.facebook.com/mueid.mursalin.rifat1",
+  "email": "mueidmursalinr@gmail.com",
+  "replit": "https://replit.com",
+  "github": "https://github.com/rifat1haker",
+  "insta": "mueidmursalinrifat",
+  "age": "18+",
+  "TG": "@mueidmursalinrifat",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
